@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307330948134",
+    "project_id": "backendlearning-d6fa4",
+    "storage_bucket": "backendlearning-d6fa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307330948134:android:e988161169192ccd291ae7",
+        "android_client_info": {
+          "package_name": "com.firebaselearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307330948134-kod99jmt2j6n9f4ftpf0v0ivinnbproa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeeqyrJQ6AVrEJqQQ_TK02zYY3lykZonM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307330948134-kod99jmt2j6n9f4ftpf0v0ivinnbproa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
